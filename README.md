@@ -8,4 +8,4 @@ to support your platform? Please, feel free to contribute!
 
 ## Examples
 
-![Demonstration](http://hywan.github.io/Xcat/Image/Demonstration.png)
+![Demonstration](http://hywan.github.io/xcat/Image/Demonstration.png)
